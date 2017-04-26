@@ -1,2 +1,4 @@
 # financeiro
-https://justinrodenbostel.com/2014/05/30/part-5-integrating-spring-security-with-spring-boot-web/
+Autenticação no banco funciona com esse tutorial (sem cryptografar o password)
+http://javasampleapproach.com/spring-framework/spring-security/use-spring-security-jdbc-authentication-mysql-spring-boot
+
